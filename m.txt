@@ -1,7 +1,0 @@
-master commit
-feature1 rebase onto master
-feature2 rebase onto master
-feature3 rebase onto master
-feature3 rebase onto master
-feature3 rebase onto master
-feature3 rebase onto master
