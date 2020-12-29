@@ -9,7 +9,7 @@ assignees: ''
 
 배포 시나리오
 -
-- [Fancomm API 배포 시나리오](https://wiki.navercorp.com/pages/viewpage.action?pageId=537499962) 
+- (배포 시나리오)
 
 
 배포 브랜치
@@ -29,10 +29,7 @@ assignees: ''
 
 배포 스케줄
 -
-- 14:00 fancomm-api 1대 배포
-- 14:10 모니터링
-- 14:30 fancomm-api 전체 배포
-- 14:40 모니터링
+- 14:00 배포
 
 
 변경공지
@@ -44,7 +41,7 @@ assignees: ''
 -
 - 배포 이슈 확인
 - 주요 기능 확인
-- 모니터링 (NELO + Pinpoint)
+- 모니터링
 
 
 배포 완료 후 처리
